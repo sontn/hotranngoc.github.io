@@ -12,3 +12,5 @@ categories: ["cu_tran_ngoc_trang"]
 ---
 
 Cụ Trần Ngọc Trang
+
+*Đang cập nhật...*

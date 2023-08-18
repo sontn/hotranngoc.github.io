@@ -11,6 +11,8 @@ cover:
 # Cây gia phả họ Trần Ngọc
 
 
+*Đang cập nhật...*
+
 ```
 .
 └── Cụ Trần Ngọc Thọ/

@@ -12,3 +12,5 @@ categories: ["cu_tran_ngoc_kien"]
 ---
 
 Cụ Trần Ngọc Kiên
+
+*Đang cập nhật...*
