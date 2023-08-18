@@ -1,0 +1,32 @@
+baseURL: "https://hotranngoc.com"
+languageCode: en-us
+title: Gia phả họ Trần Ngọc
+theme: PaperMod
+paginate: 5
+
+params:
+  env: production
+  homeInfoParams:
+    Title: "Xin chào"
+    Content: "Chào mừng đến với Website Họ Trần Ngọc. Đây là Website lưu trữ thông tin về họ Trần Ngọc để làm tư liệu cho con cháu của họ Trần Ngọc nắm được thông tin gốc gác, họ hàng, tổ tiên."
+
+  socialIcons:        
+    - name: youtube
+      url: "https://www.youtube.com/"
+    - name: facebook
+      url: "https://www.facebook.com"
+
+menu:
+  main:
+    - identifier: categories
+      name: Phân loại
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Lưu trữ
+      url: /archives/
+      weight: 30
