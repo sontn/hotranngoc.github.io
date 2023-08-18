@@ -5,8 +5,8 @@ draft: false
 weight: 3
 cover:
     image: 'img/treeroot.jpg'
-    alt: 'Nhà Giao Dịch'
-    caption: 'Nhà Giao Dịch'
+    alt: 'Họ Trần Ngọc'
+    caption: 'Họ Trần Ngọc'
 tags: ["cu_tran_ngoc_trang"]
 categories: ["cu_tran_ngoc_trang"]
 ---
